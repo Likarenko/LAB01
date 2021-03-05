@@ -1,3 +1,5 @@
+print('You name?')
+q= input()
+print(q)
 
-
-print('Hello world')
+print('Hello world from '+ q +'!')
