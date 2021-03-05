@@ -1,5 +1,5 @@
-print('Your age?')
-q= input()
+print('Your age?') #name
+q= input() #input name
 
 
-print('User age:'+ q +'!')
+print('User age:'+ q +'!') #output name
